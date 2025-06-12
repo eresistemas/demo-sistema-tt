@@ -1,9 +1,15 @@
 <!DOCTYPE html><html lang="en"><head>
 
         <!-- ----------------------------------------------------------- -->
+        <!-- Este bloque fue agregado para que en el celular se pueda anclar el sitio a la pantalla de inicio. 
+        Se usa la etiqueta apple-mobile-web-app-capable y así queda el iconito como si fuera una app.
+        Pero claro, cuando lo abrís, en realidad se carga la versión web mediante el navegador.
+        Este bloque también apunta al archivo src/assets/manifest.json, que fue creado desde cero para esto, 
+        y sirve para configurar el icono que aparece en el acceso directo del celular. 
+        Tambien junto a esto se agrega en el angular.json el bloque: manifest
+        -->
         <!-- Manifest y colores para PWA -->
         <link rel="manifest" href="/assets/manifest.json">
-        <meta name="theme-color" content="#0d47a1">
         <!-- Iconos para navegadores -->
         <link rel="icon" type="image/png" sizes="32x32" href="assets/iconos-mobile/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="assets/iconos-mobile/favicon-16x16.png">
