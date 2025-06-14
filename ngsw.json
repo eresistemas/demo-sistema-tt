@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1749781781898,
+  "timestamp": 1749939173123,
   "index": "/demo-sistema-tt/index.html",
   "assetGroups": [
     {
@@ -84,7 +84,7 @@
         "/demo-sistema-tt/polyfills.1ab153ff91bfd748.js",
         "/demo-sistema-tt/quill.0bf5fd152ab1a505.js",
         "/demo-sistema-tt/runtime.ae978dd89ef6ef79.js",
-        "/demo-sistema-tt/styles.dd4310afe08ecaa4.css"
+        "/demo-sistema-tt/styles.7c41e96912854dd9.css"
       ],
       "patterns": []
     },
@@ -431,9 +431,7 @@
         "/demo-sistema-tt/assets/images/ui/angular-material/scenes/tooltip.scene.png",
         "/demo-sistema-tt/assets/images/ui/angular-material/scenes/tree.scene.png",
         "/demo-sistema-tt/assets/manifest.json",
-        "/demo-sistema-tt/assets/styles/splash-screen.css",
-        "/demo-sistema-tt/favicon-16x16.png",
-        "/demo-sistema-tt/favicon-32x32.png"
+        "/demo-sistema-tt/assets/styles/splash-screen.css"
       ],
       "patterns": []
     }
@@ -843,15 +841,13 @@
     "/demo-sistema-tt/assets/manifest.json": "e278bf3dfeb7355251a81786e28cb8f0509d7276",
     "/demo-sistema-tt/assets/styles/splash-screen.css": "8716419e46f66a35fdd7e0eee8ef7f8efc448f36",
     "/demo-sistema-tt/common.a7ac5255f9fa2438.js": "e6818cd8c885e70353e3421921bd38eeb16dbb67",
-    "/demo-sistema-tt/favicon-16x16.png": "63f8ac84a71c84673093c5f34444cd35e650a28c",
-    "/demo-sistema-tt/favicon-32x32.png": "815e4b834f5361f060b7d9db44918cd77edd8b8f",
-    "/demo-sistema-tt/index.html": "0d8bdff526ffbf4d5a7d9a62e0cdc33d63ece379",
+    "/demo-sistema-tt/index.html": "8af78486361cd3f3a9ef647415ee060512ef274b",
     "/demo-sistema-tt/main.49b4dad5e073be4e.js": "5928525a66a1629dc65e4ca17dc5f1accd6064a4",
-    "/demo-sistema-tt/manifest.webmanifest": "c9d1d549eddf4b3e28153df26af30e6cf021068f",
+    "/demo-sistema-tt/manifest.webmanifest": "afbb729c83b84d72fdaaca641fe7db320dd8fcf4",
     "/demo-sistema-tt/polyfills.1ab153ff91bfd748.js": "7453be1b23827cc018b81522a8985383eeedbce6",
     "/demo-sistema-tt/quill.0bf5fd152ab1a505.js": "63db0561bb969dd959bd0775bacfffbc182b7404",
     "/demo-sistema-tt/runtime.ae978dd89ef6ef79.js": "5518ba12d00dd52af53eccc12863d7d16f2e9994",
-    "/demo-sistema-tt/styles.dd4310afe08ecaa4.css": "ceeeac2c96577cf80607c49ece09ff9aefa9ce0a"
+    "/demo-sistema-tt/styles.7c41e96912854dd9.css": "ec5c03e34736b0f2848387e0e187244cc88e0bf5"
   },
   "navigationUrls": [
     {
